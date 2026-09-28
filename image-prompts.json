@@ -1,0 +1,14 @@
+[
+  {
+    "key": "hero-window",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium private aviation website hero photograph. Primary request: Landscape 16:10 photorealistic private jet cabin window, single tall oval rectangular airplane window perfectly centered, occupies approximately 32% of image width and 80% of image height, viewed straight on symmetrically. Scene: black cabin surrounding the window, subtle warm champagne gold reflections on a layered metal window frame. Beyond the window a dusty peach sunset horizon above a violet cloud sea, desaturated blue upper sky. Lighting: cabin falls into near black at all outer edges; cinematic soft warm reflections. Composition: straight-on centered window with abundant blank near-black negative space on BOTH sides for Japanese copy that will be placed later. No wing, no objects, no people, no text, no UI, no logo, no watermark. Produce only this one photographic asset."
+  },
+  {
+    "key": "clouds",
+    "prompt": "Use case: photorealistic-natural. Asset type: cinematic background photograph for a premium private aviation website. Primary request: Landscape 16:9 photoreal sunset cloud ocean seen from airplane height. Composition: dusty peach thin sunset horizon and desaturated blue sky in the top third, thick gray lavender clouds occupying the lower two thirds. Lighting/mood: serene cinematic dusk, a little warm peach light across the cloud ocean, understated premium visual atmosphere. Color palette: muted dusty peach, desaturated blue, violet and gray lavender. No window, no wing, no airplane, no people, no text, no logo, no UI, no watermark. Produce only this one photographic asset."
+  },
+  {
+    "key": "jet-top",
+    "prompt": "Use case: product-mockup. Asset type: isolated photographic luxury jet cutout for a premium private aviation website. Primary request: A photoreal luxury black business jet isolated on a genuinely transparent background, preserve transparent alpha. Exact orthographic top-down plan view, nose points straight up, centered perfectly symmetric aircraft, entire wings and tail fully visible with generous transparent margins. Subject: charcoal polished fuselage with subtle champagne gold metallic edge highlights, two rear engines, swept wings, gear retracted. Materials: realistic glossy charcoal metal with restrained warm gold reflections. Lighting: clean premium product photography with no or minimal shadow. Constraints: exact top view with zero perspective angle; no backdrop at all, transparent alpha, no ground, no sky, no runway, no text, no logos, no markings, no watermark. Produce only this one photographic asset."
+  }
+]

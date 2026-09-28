@@ -1,0 +1,66 @@
+{
+  "retrieved_at": "2026-09-26",
+  "purpose": "User-requested private aviation website recreation; locally downloaded reference photographs",
+  "assets": [
+    {
+      "file": "cabin.jpg",
+      "role": "Luxury private jet cabin",
+      "dimensions": [3961, 2971],
+      "credit": "Photo by Andy Wang on Unsplash",
+      "source_page": "https://unsplash.com/photos/lU1pEjWZzXg",
+      "asset_url": "https://unsplash.com/photos/lU1pEjWZzXg/download?force=true",
+      "license_name": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "reuse_info": "Free download was exposed in Unsplash search results and successfully downloaded without account. Unsplash License permits free commercial and non-commercial use; attribution appreciated. Individual photo page was unavailable to the web text tool."
+    },
+    {
+      "file": "pet.webp",
+      "role": "Dog seated in a private jet cabin",
+      "dimensions": [1248, 2229],
+      "credit": "Jesko Jets website; photographer not stated",
+      "source_page": "https://jeskojets.com/",
+      "asset_url": "https://cdn.prod.website-files.com/68b5ebb0b83342b0b2bbd5ee/68d9a3daa04c725a21d89d3f_img_benefits-2.webp",
+      "license_name": "No open reuse license verified",
+      "reuse_info": "Public image linked from the Jesko Jets Pets service. Site footer states all rights reserved. Downloaded for the requested recreation; public accessibility and attribution do not establish a general republishing license."
+    },
+    {
+      "file": "dining.jpg",
+      "role": "Fine dining table aboard a Gulfstream G280",
+      "dimensions": [1536, 1022],
+      "credit": "SPARFELL, Gulfstream G280 OE-HAG gallery; photographer not stated",
+      "source_page": "https://www.sparfell.aero/aircrafts/g280-oe-hag/",
+      "asset_url": "https://www.sparfell.aero/app/uploads/2023/01/SPARFELL-Charter-Fleet-Gulfstream-G280-OE-HAG_18-1536x1022.jpg",
+      "license_name": "No open reuse license verified",
+      "reuse_info": "Public operator gallery photograph. Site footer states all rights reserved. Downloaded for the requested recreation; public accessibility and attribution do not establish a general republishing license."
+    },
+    {
+      "file": "wing.webp",
+      "role": "Aircraft wing seen through cabin window at sunset",
+      "dimensions": [1056, 1416],
+      "credit": "Jesko Jets website; photographer not stated",
+      "source_page": "https://jeskojets.com/",
+      "asset_url": "https://cdn.prod.website-files.com/68b5ebb0b83342b0b2bbd5ee/68e9240bc0c8bd03a98e8c97_img_benefit-4.webp",
+      "license_name": "No open reuse license verified",
+      "reuse_info": "Public image linked from the Jesko Jets Efficient service. Site footer states all rights reserved. Downloaded for the requested recreation; public accessibility and attribution do not establish a general republishing license."
+    }
+  ],
+  "extra_original_reference_assets": [
+    {
+      "file": "original-night-ramp.webp",
+      "dimensions": [2048, 3656],
+      "source_page": "https://jeskojets.com/",
+      "asset_url": "https://cdn.prod.website-files.com/68b5ebb0b83342b0b2bbd5ee/68d9a43945c6f790cee01dd3_img_benefits-3.webp",
+      "original_section": "24/7 availability",
+      "reuse_info": "No open reuse license verified; Jesko Jets footer states all rights reserved."
+    },
+    {
+      "file": "original-onboard-passenger.webp",
+      "dimensions": [1056, 1416],
+      "source_page": "https://jeskojets.com/",
+      "asset_url": "https://cdn.prod.website-files.com/68b5ebb0b83342b0b2bbd5ee/68e923fd81c2d3933a1661f7_img_benefit-3.webp",
+      "original_section": "Onboard services",
+      "reuse_info": "No open reuse license verified; Jesko Jets footer states all rights reserved."
+    }
+  ],
+  "verification": "All 6 downloaded image files opened and visually inspected. No website code was edited. No sign-in or tracking interaction was used."
+}
